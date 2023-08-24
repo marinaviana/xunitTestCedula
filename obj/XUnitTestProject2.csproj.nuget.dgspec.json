@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marina/Documentos/c#/XUnitTestProject2/XUnitTestProject2.csproj": {}
+    "/home/marina/Documentos/DOCpessoal/projetos/dotnet/XUnitTestProject2/XUnitTestProject2.csproj": {}
   },
   "projects": {
-    "/home/marina/Documentos/c#/XUnitTestProject2/XUnitTestProject2.csproj": {
+    "/home/marina/Documentos/DOCpessoal/projetos/dotnet/XUnitTestProject2/XUnitTestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marina/Documentos/c#/XUnitTestProject2/XUnitTestProject2.csproj",
+        "projectUniqueName": "/home/marina/Documentos/DOCpessoal/projetos/dotnet/XUnitTestProject2/XUnitTestProject2.csproj",
         "projectName": "XUnitTestProject2",
-        "projectPath": "/home/marina/Documentos/c#/XUnitTestProject2/XUnitTestProject2.csproj",
+        "projectPath": "/home/marina/Documentos/DOCpessoal/projetos/dotnet/XUnitTestProject2/XUnitTestProject2.csproj",
         "packagesPath": "/home/marina/.nuget/packages/",
-        "outputPath": "/home/marina/Documentos/c#/XUnitTestProject2/obj/",
+        "outputPath": "/home/marina/Documentos/DOCpessoal/projetos/dotnet/XUnitTestProject2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marina/.nuget/NuGet/NuGet.Config"
